@@ -11,6 +11,7 @@
     <body>
         <referenceContainer name="content">
             <block class="Magento\ImportExport\Block\Adminhtml\History" name="adminhtml.import.history.container" />
+            <uiComponent name="import_history_grid"/>
         </referenceContainer>
     </body>
 </page>
